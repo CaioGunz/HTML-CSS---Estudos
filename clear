@@ -1,0 +1,125 @@
+[33mcommit 71c0285cf2c11bcb563720f00fe7da2f03741a02[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: cbganer@gmail.com <caiobarbosa2404@hotmail.com>
+Date:   Fri Feb 10 15:02:09 2023 -0300
+
+    Melhorando o CSS
+
+[33mcommit 0dfc76926d41553c6f2e1ad897018ab85c8663ba[m
+Author: cbganer@gmail.com <caiobarbosa2404@hotmail.com>
+Date:   Thu Feb 9 11:51:33 2023 -0300
+
+    Conteúdo externo
+
+[33mcommit 1f67fea86993d5ffd232d9782549dca05aa2a13e[m
+Author: cbganer@gmail.com <caiobarbosa2404@hotmail.com>
+Date:   Thu Feb 9 11:28:37 2023 -0300
+
+    Adaptando a página inicial
+
+[33mcommit 7a34bdd68e988359d044918290f15ebb2c5db535[m
+Author: cbganer@gmail.com <caiobarbosa2404@hotmail.com>
+Date:   Thu Feb 9 10:35:17 2023 -0300
+
+    Estrutura de tabelas
+
+[33mcommit 9d55117cebe08b8ea6ecd471950593bc4fe1bd20[m
+Author: cbganer@gmail.com <caiobarbosa2404@hotmail.com>
+Date:   Thu Feb 9 10:17:45 2023 -0300
+
+    CSS avançado
+
+[33mcommit 7a751117a2bd3cfcc95548990a92bc521a99d2c7[m
+Author: cbganer@gmail.com <caiobarbosa2404@hotmail.com>
+Date:   Wed Feb 8 16:49:52 2023 -0300
+
+    Melhorado a semântica
+
+[33mcommit eeece926447c830f3cc08983d6e7449146c0430b[m
+Author: cbganer@gmail.com <caiobarbosa2404@hotmail.com>
+Date:   Wed Feb 8 16:36:30 2023 -0300
+
+    Tipos de campos diferentes
+
+[33mcommit 58865f03c8ee9dee4c185a8b4665cd7bd8b56136[m
+Author: cbganer@gmail.com <caiobarbosa2404@hotmail.com>
+Date:   Wed Feb 8 16:03:44 2023 -0300
+
+    Começando um formulário
+
+[33mcommit 62a774ad77c048047a9a5678283954728f68b2c3[m
+Author: cbganer@gmail.com <caiobarbosa2404@hotmail.com>
+Date:   Wed Feb 8 15:48:09 2023 -0300
+
+    Criando uma nova página
+
+[33mcommit 5f498aabfcbde0337dd857ed869021f542b91a51[m
+Author: cbganer@gmail.com <caiobarbosa2404@hotmail.com>
+Date:   Wed Feb 8 14:43:50 2023 -0300
+
+    Finalizando a página de produtos
+
+[33mcommit 67d617abbf955849d40d99e01f5331d0699f54a5[m
+Author: cbganer@gmail.com <caiobarbosa2404@hotmail.com>
+Date:   Wed Feb 8 14:30:17 2023 -0300
+
+    Pseudo-classes CSS
+
+[33mcommit c3c7eef672ccafe3c88bdf6693c2ce935befd291[m
+Author: cbganer@gmail.com <caiobarbosa2404@hotmail.com>
+Date:   Tue Feb 7 16:54:17 2023 -0300
+
+    Lidando com bordas
+
+[33mcommit e72f99545ccee49dceca46d5a2d180fb4229fdf2[m
+Author: cbganer@gmail.com <caiobarbosa2404@hotmail.com>
+Date:   Tue Feb 7 16:31:14 2023 -0300
+
+    A tag section
+
+[33mcommit 6f22b44ca787c3c40f9e8515fcac0a30d6339e17[m
+Author: cbganer@gmail.com <caiobarbosa2404@hotmail.com>
+Date:   Tue Feb 7 15:57:36 2023 -0300
+
+    Posicionamento dos Elementos
+
+[33mcommit 6daf91a7e5730055a4d0f82586e6e3d6ab0d7519[m
+Author: cbganer@gmail.com <caiobarbosa2404@hotmail.com>
+Date:   Tue Feb 7 15:24:30 2023 -0300
+
+    Navegando Entre Páginas
+
+[33mcommit b18af1deb8dc28af4b53f4c3ff7dd1d1da42cb26[m
+Author: cbganer@gmail.com <caiobarbosa2404@hotmail.com>
+Date:   Tue Feb 7 14:44:29 2023 -0300
+
+    Criando Uma Nova Página
+
+[33mcommit 0752f16636bb05a74d7b63fddb37872a04f97aa6[m
+Author: cbganer@gmail.com <caiobarbosa2404@hotmail.com>
+Date:   Mon Feb 6 16:49:54 2023 -0300
+
+    Finalizando a Página
+
+[33mcommit fe3c91f2bb51e8a4979db0705d3f22bf411f185d[m
+Author: cbganer@gmail.com <caiobarbosa2404@hotmail.com>
+Date:   Mon Feb 6 16:38:44 2023 -0300
+
+    Lista e Divisões de Conteúdo
+
+[33mcommit c0496ff04b2ad94a04e1e431b6d637a5fffdbc15[m
+Author: cbganer@gmail.com <caiobarbosa2404@hotmail.com>
+Date:   Mon Feb 6 16:03:54 2023 -0300
+
+    Estilizando Imagens
+
+[33mcommit 693842f272616e504daf5383627cb6eadc5a1a14[m
+Author: cbganer@gmail.com <caiobarbosa2404@hotmail.com>
+Date:   Fri Feb 3 17:06:57 2023 -0300
+
+    Trabalhando com CSS
+
+[33mcommit a72a30db8fe3be17da6eb6a4264291e2e229b379[m
+Author: cbganer@gmail.com <caiobarbosa2404@hotmail.com>
+Date:   Fri Feb 3 16:16:14 2023 -0300
+
+    Separando Conteúdo e Informações
